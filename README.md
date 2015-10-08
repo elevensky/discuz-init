@@ -6,4 +6,4 @@ template/
   + member/
   + portal/
   + search/
-  + discuz_style_default.xml
+  + discuz_style_init.xml
