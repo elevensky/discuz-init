@@ -1,0 +1,3 @@
+/*diy部分*/
+.frame, .frame-tab, .block, .temp { padding: 0px; margin: 0px; background: none; border: none;}
+.frame-title{display:none;}
