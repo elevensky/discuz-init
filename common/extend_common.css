@@ -1,6 +1,10 @@
 /* ----------------------------------
 extend style
 ---------------------------------- */
+/*diy部分*/
+.frame, .frame-tab, .block, .temp { padding: 0px; margin: 0px; background: none; border: none;}
+.frame-title{display:none;}
+
 /* --- common css---*/
 .block{margin:0;}
 .pn { background: #E5E5E5 url({STYLEIMGDIR}/pn.png) repeat-x 0 0; }
